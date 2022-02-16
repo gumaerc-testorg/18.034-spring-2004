@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-034-honors-differential-equations-spring-2004/85a60f0ea1638fd5ba5d24bcdb60eaf9_034pfsolnd1.jpg
+file: /media/courses/18-034-honors-differential-equations-spring-2004/85a60f0ea1638fd5ba5d24bcdb60eaf9_034pfsolnd1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Exams
+ocw_type: OCWImage
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Image
 title: 034pfsolnd1.jpg
 uid: 85a60f0e-a163-8fd5-ba5d-24bcdb60eaf9
