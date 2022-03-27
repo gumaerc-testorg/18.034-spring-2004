@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a967ef6f-f8dc-652e-25a4-fe395d0d00ec
 resourcetype: Document
 title: matlab2.pdf
 uid: 034106b0-6ab0-a119-9826-3a17e7eeb5d7

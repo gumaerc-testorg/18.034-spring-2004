@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 83cea548-8968-c5cc-9217-7c2459b121ac
 resourcetype: Document
 title: 034fsoln.pdf
 uid: 8fdf0150-4a8a-3e19-026b-ea00ca4a7a01

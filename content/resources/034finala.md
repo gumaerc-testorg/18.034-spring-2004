@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 83cea548-8968-c5cc-9217-7c2459b121ac
 resourcetype: Image
 title: 034finala.jpg
 uid: 38bb0440-30df-19d9-0550-077a77e9699d

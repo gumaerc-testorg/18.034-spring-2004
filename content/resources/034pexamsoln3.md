@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 83cea548-8968-c5cc-9217-7c2459b121ac
 resourcetype: Document
 title: 034pexamsoln3.pdf
 uid: a0afccf4-293e-20a8-9b0c-affd553229f6
