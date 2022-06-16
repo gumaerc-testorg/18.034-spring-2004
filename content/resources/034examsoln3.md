@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-034-honors-differential-equations-spring-2004/1a00163bf41675b54451b611080465e2_034examsoln3.pdf
+file: /courses/18-034-honors-differential-equations-spring-2004/1a00163bf41675b54451b611080465e2_034examsoln3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

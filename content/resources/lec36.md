@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-034-honors-differential-equations-spring-2004/bc1979a4d8ac0da626a90683a2305239_lec36.pdf
+file: /courses/18-034-honors-differential-equations-spring-2004/bc1979a4d8ac0da626a90683a2305239_lec36.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

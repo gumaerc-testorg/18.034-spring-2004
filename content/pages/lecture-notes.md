@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling and Terminology ([PDF]({{< baseurl >}}/resources/lec1))
+Modeling and Terminology ({{% resource_link 791f14c3-c750-c702-a423-c46f43345cf8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +43,7 @@ Modeling and Terminology ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Differential Equations ([PDF]({{< baseurl >}}/resources/lec2))
+Linear Differential Equations ({{% resource_link 3f60608b-2696-971c-5f2f-ea7198a1b0e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ Linear Differential Equations ([PDF]({{< baseurl >}}/resources/lec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Existence and Uniqueness of Solutions: Uniqueness ([PDF]({{< baseurl >}}/resources/lec3))
+Existence and Uniqueness of Solutions: Uniqueness ({{% resource_link cf4b6e7a-140b-814b-33cc-6a97c1ca4749 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ Existence and Uniqueness of Solutions: Uniqueness ([PDF]({{< baseurl >}}/resourc
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Existence and Uniqueness of Solutions: Picard Iterates ([PDF]({{< baseurl >}}/resources/lec4))
+Existence and Uniqueness of Solutions: Picard Iterates ({{% resource_link 725e3718-d6fe-04a9-1a67-03e9c198fdbf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Existence and Uniqueness of Solutions: Picard Iterates ([PDF]({{< baseurl >}}/re
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Extension of Solutions ([PDF]({{< baseurl >}}/resources/lec5))
+Extension of Solutions ({{% resource_link 2ee7d400-05a4-ab25-0cea-7594569c523c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ Separable Equations
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Qualitative Analysis ([PDF]({{< baseurl >}}/resources/lec7))
+Qualitative Analysis ({{% resource_link 4bf2d11f-4c44-e639-9f03-782fd83824fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Qualitative Analysis ([PDF]({{< baseurl >}}/resources/lec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Approximate Numerical Solutions ([PDF]({{< baseurl >}}/resources/lec8))
+Approximate Numerical Solutions ({{% resource_link 70f7a61c-df85-0d6a-98b5-2e063708b7a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,9 +134,9 @@ In-class Exam 1
 {{< tdopen >}}
 
 
-Homogeneous 2nd Order Linear ODE's with Constant Coefficients ([PDF]({{< baseurl >}}/resources/lec11))
+Homogeneous 2nd Order Linear ODE's with Constant Coefficients ({{% resource_link d3589309-0d3b-da32-9cd3-c7bdf4fafdf8 "PDF" %}})
 
-Some Instructions on Plotting Functions in MATLAB® ([PDF]({{< baseurl >}}/resources/matlab2))
+Some Instructions on Plotting Functions in MATLAB® ({{% resource_link 034106b0-6ab0-a119-9826-3a17e7eeb5d7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -157,7 +158,7 @@ Brief Review of Complex Numbers
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Inhomogeneous 2nd Order Linear ODE's ([PDF]({{< baseurl >}}/resources/lec13))
+Inhomogeneous 2nd Order Linear ODE's ({{% resource_link 6f3330e6-9c25-0803-a5e7-18fb153e5ccc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +167,7 @@ Inhomogeneous 2nd Order Linear ODE's ([PDF]({{< baseurl >}}/resources/lec13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of 2nd Order Linear and Nonlinear ODE's ([PDF]({{< baseurl >}}/resources/lec14))
+Theory of 2nd Order Linear and Nonlinear ODE's ({{% resource_link c89887b2-69ce-0479-9e51-256ec083f858 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +185,7 @@ Beats, Resonance, and Frequency Response Modeling
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Extra Topics ([PDF]({{< baseurl >}}/resources/lec16))
+Extra Topics ({{% resource_link 3ad9fdd0-c61c-afa6-d4c7-c6651a5ec513 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +200,7 @@ Extra Topics ([PDF]({{< baseurl >}}/resources/lec16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Fourier Trigonometric Series ([PDF]({{< baseurl >}}/resources/lec17))
+Fourier Trigonometric Series ({{% resource_link 13a8ae53-b6f3-c690-0f65-6cb15e495462 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +227,7 @@ In-class Exam 2
 20
 {{< tdclose >}}
 {{< tdopen >}}
-The Dirac Delta Function ([PDF]({{< baseurl >}}/resources/delta_function))
+The Dirac Delta Function ({{% resource_link c3aee3b4-34d5-2dd8-3e19-15ce4c0bc2f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +242,7 @@ The Dirac Delta Function ([PDF]({{< baseurl >}}/resources/delta_function))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-The Laplace Transform: Solving IVP’s ([PDF]({{< baseurl >}}/resources/lec21))
+The Laplace Transform: Solving IVP’s ({{% resource_link 66e2a224-50a1-1c9c-7107-2620e847aa67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +251,7 @@ The Laplace Transform: Solving IVP’s ([PDF]({{< baseurl >}}/resources/lec21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of the Transform ([PDF]({{< baseurl >}}/resources/lec22))
+Properties of the Transform ({{% resource_link 86b990f7-4c10-ac1e-76af-9458d1675e59 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +260,7 @@ Properties of the Transform ([PDF]({{< baseurl >}}/resources/lec22))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Convolution ([PDF]({{< baseurl >}}/resources/lec23))
+Convolution ({{% resource_link ddd78a39-e797-433d-cfa1-ff90f0e314e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +269,7 @@ Convolution ([PDF]({{< baseurl >}}/resources/lec23))
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Extra Topics ([PDF]({{< baseurl >}}/resources/lec24))
+Extra Topics ({{% resource_link 2d634d58-1adf-0f98-02b1-426acdcd6a60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +284,7 @@ Extra Topics ([PDF]({{< baseurl >}}/resources/lec24))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Compartment Models and Introduction to Linear Algebra ([PDF]({{< baseurl >}}/resources/lec25))
+Compartment Models and Introduction to Linear Algebra ({{% resource_link d2fef2fb-d7a6-4ef4-4352-ca0c78376985 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +293,7 @@ Compartment Models and Introduction to Linear Algebra ([PDF]({{< baseurl >}}/res
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Eigenvalues, Eigenvectors and Eigenspaces ([PDF]({{< baseurl >}}/resources/lec26))
+Eigenvalues, Eigenvectors and Eigenspaces ({{% resource_link 45ebff60-acc2-9905-d819-999393c2bb06 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +302,7 @@ Eigenvalues, Eigenvectors and Eigenspaces ([PDF]({{< baseurl >}}/resources/lec26
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Homogeneous Linear Systems: Real Eigenvalues Case ([PDF]({{< baseurl >}}/resources/lec27))
+Homogeneous Linear Systems: Real Eigenvalues Case ({{% resource_link ade90fd4-75dc-1541-9498-015bea9d82af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +329,7 @@ Inhomogeneous Linear Systems: Exponentials of Matrices
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of General Linear Systems of ODE's ([PDF]({{< baseurl >}}/resources/lec30))
+Theory of General Linear Systems of ODE's ({{% resource_link a0168da6-7178-d16a-0547-ecca82084b75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -341,7 +342,7 @@ Theory of General Linear Systems of ODE's ([PDF]({{< baseurl >}}/resources/lec30
 
 Extra Topics and/or Review
 
-Supplementary Notes on Jordan Normal Form ([PDF]({{< baseurl >}}/resources/normal))
+Supplementary Notes on Jordan Normal Form ({{% resource_link 51c72a69-89c6-a792-2815-8a69f7750c5a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -367,7 +368,7 @@ In-class Exam 3
 33
 {{< tdclose >}}
 {{< tdopen >}}
-The Fundamental Theorem ([PDF]({{< baseurl >}}/resources/lec33_34))
+The Fundamental Theorem ({{% resource_link ffcf0fd2-ca43-b5a0-70c0-6af472060019 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,7 +377,7 @@ The Fundamental Theorem ([PDF]({{< baseurl >}}/resources/lec33_34))
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Autonomous Systems and Interacting Species Models ([PDF]({{< baseurl >}}/resources/lec33_34))
+Autonomous Systems and Interacting Species Models ({{% resource_link ffcf0fd2-ca43-b5a0-70c0-6af472060019 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -385,7 +386,7 @@ Autonomous Systems and Interacting Species Models ([PDF]({{< baseurl >}}/resourc
 35
 {{< tdclose >}}
 {{< tdopen >}}
-Stability of Linear and Nonlinear Autonomous Systems ([PDF]({{< baseurl >}}/resources/lec35))
+Stability of Linear and Nonlinear Autonomous Systems ({{% resource_link 5f34168c-e688-eae4-4a13-a698e5a0d1e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -394,7 +395,7 @@ Stability of Linear and Nonlinear Autonomous Systems ([PDF]({{< baseurl >}}/reso
 36
 {{< tdclose >}}
 {{< tdopen >}}
-Conservative Systems and Lyapunov Functions ([PDF]({{< baseurl >}}/resources/lec36))
+Conservative Systems and Lyapunov Functions ({{% resource_link bc1979a4-d8ac-0da6-26a9-0683a2305239 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-034-honors-differential-equations-spring-2004/38bb044030df19d90550077a77e9699d_034finala.jpg
+file: /courses/18-034-honors-differential-equations-spring-2004/38bb044030df19d90550077a77e9699d_034finala.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

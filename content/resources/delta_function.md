@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-034-honors-differential-equations-spring-2004/c3aee3b434d52dd83e1915ce4c0bc2f5_delta_function.pdf
+file: /courses/18-034-honors-differential-equations-spring-2004/c3aee3b434d52dd83e1915ce4c0bc2f5_delta_function.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
