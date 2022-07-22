@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 034soln4b.jpg
 uid: c2a2c46e-33c2-5a85-6f32-d20843fc1435
 ---
 Supporting file.
-

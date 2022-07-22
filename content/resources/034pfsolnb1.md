@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 034pfsolnb1.jpg
 uid: f5718b2d-e69e-ba7a-ce76-258a79f7f2b2
 ---
 Supporting File.
-

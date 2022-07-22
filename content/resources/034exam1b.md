@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 034exam1b.jpg
 uid: 4797a6d2-89e9-dd10-f803-ebbdede4082c
 ---
 Supporting file.
-

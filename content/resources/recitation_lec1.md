@@ -5,6 +5,7 @@ file: /courses/18-034-honors-differential-equations-spring-2004/15b6524261e6f17b
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
