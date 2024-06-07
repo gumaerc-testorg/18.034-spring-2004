@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-034-honors-differential-equations-spring-2004/3911ed2614c6afe40bcb001668417074_recitation_lec16.pdf
+file_size: 121850
 file_type: application/pdf
 learning_resource_types:
 - Recitations
