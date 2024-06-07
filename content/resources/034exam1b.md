@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file.
 file: /courses/18-034-honors-differential-equations-spring-2004/4797a6d289e9dd10f803ebbdede4082c_034exam1b.jpg
+file_size: 2229
 file_type: image/jpeg
 image_metadata:
   caption: ''

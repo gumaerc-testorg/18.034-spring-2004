@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-034-honors-differential-equations-spring-2004/6bafe90fb590063d5c769505e3eabb16_034final.pdf
+file_size: 170929
 file_type: application/pdf
 learning_resource_types:
 - Exams
