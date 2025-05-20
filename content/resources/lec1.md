@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /ol-ocw-studio-app/courses/18-034-honors-differential-equations-spring-2004/791f14c3c750c702a423c46f43345cf8_lec1.pdf
+file: /courses/18-034-honors-differential-equations-spring-2004/791f14c3c750c702a423c46f43345cf8_lec1.pdf
 file_size: 101786
 file_type: application/pdf
 learning_resource_types:
