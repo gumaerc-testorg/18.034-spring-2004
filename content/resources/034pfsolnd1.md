@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file.
-file: /courses/18-034-honors-differential-equations-spring-2004/85a60f0ea1638fd5ba5d24bcdb60eaf9_034pfsolnd1.jpg
+file: /ol-ocw-studio-app/courses/18-034-honors-differential-equations-spring-2004/85a60f0ea1638fd5ba5d24bcdb60eaf9_034pfsolnd1.jpg
 file_size: 29432
 file_type: image/jpeg
 image_metadata:
