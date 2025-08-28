@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-034-honors-differential-equations-spring-2004/087ec156d8d0ec3e66c099a338906cee_034examsoln2.pdf
+file: /ol-ocw-studio-app/courses/18-034-honors-differential-equations-spring-2004/087ec156d8d0ec3e66c099a338906cee_034examsoln2.pdf
 file_size: 133522
 file_type: application/pdf
 learning_resource_types:
